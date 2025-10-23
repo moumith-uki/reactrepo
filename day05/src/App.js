@@ -6,6 +6,8 @@ import hooks from './components/day06/hooks'
 import State from './components/day06/hooks';
 import Maths from './components/day06/Calc';
 import Like from './components/day06/Like';
+import Apple from './components/day07/Apple'
+import StateX from './components/day07/emojibutt';
 function App() {
   {
   //   const flower={
@@ -40,8 +42,11 @@ function App() {
       {/* <Table Props={table}></Table> */}
       {/* <State></State> */}
     {/* <Maths></Maths> */}
-    <Like></Like>
-    </div>
+    {/* <Like></Like> */}
+    {/* <Apple></Apple> */}
+<StateX></StateX>
+ 
+</div>
   )
 }
 }

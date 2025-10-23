@@ -10,6 +10,9 @@ div{
   text-align: start;
 
 }
+img{
+  height: 60px;
+}
 
 .App-logo {
   height: 40vmin;
