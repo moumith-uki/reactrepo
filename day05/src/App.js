@@ -8,9 +8,10 @@
 // import Like from './components/day06/Like';
 // import Apple from './components/day07/Apple'
 // import StateX from './components/day07/emojibutt';
-// import Form
+import Form from "./components/assessment/Assessment"
 
-import Form from "./components/day08/Form";
+// import Form from "./components/day08/Form";
+// import Form from "./components/assessment/FormAss";
 
 // function App() {
 //   {
@@ -56,10 +57,20 @@ import Form from "./components/day08/Form";
 // }
 // export default App;
 
+// export default function App()
+// {
+//   return(
+//     // <Form></Form>
+//   <FormAss></FormAss>
+
+//   );
+// }
+
+
 export default function App()
 {
   return(
-    <Form></Form>
-
-  );
+<Form></Form>
+  )
 }
+
