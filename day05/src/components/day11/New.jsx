@@ -3,7 +3,7 @@ import img2 from "../../assets/applewatch.avif"
 import img3 from "../../assets/laptop.avif"
 import img4 from "../../assets/Airphone-3-800x600.jpg"
 
-export function New(){
+export default function New(){
     const data = [
         {name:"Smartphone X",Description:"Latest gen smartphone with AI camera and stunning display",Price:"$999",image:img1},
         {name:"Laptop pro",Description:"Powerful light weight laptop for proffesionals on the go",Price:"$1499",image:img3},
