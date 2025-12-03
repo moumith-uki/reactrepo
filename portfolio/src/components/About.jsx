@@ -22,12 +22,15 @@ export default function About(){
         <p className="fs-4">DiE & DiIT Ongoing</p>
         <p className="fs-4">Front-end Developer</p>
     </div>
-    <div className="profile">
+    <div className="profile m-5">
         <img src={myimg} alt="pic" className="pic"/>
     </div>
     </div>
-    </div>  
-    <div className="projects">
+    </div>
+
+    <div className="project">
+        <p className="display-6 fw-bold mb-5 text-start">My Projects</p>
+        
     </div>
     </>
    )
